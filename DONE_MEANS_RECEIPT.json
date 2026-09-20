@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "ticket_id": "t_c903d1ab",
+  "code_sha": "153096576563fa87f0751f453ce647c2e4e110be",
+  "command": "python -m pytest -q",
+  "exit_code": 0,
+  "artifact": {
+    "path": "dupe_finder.py",
+    "sha256": "8453decbeb37e62717cbc7921407b3513289a742a76637b07654ef0fd07ba832",
+    "bytes": 2382
+  },
+  "recorded_at": "2026-09-20T23:20:30+00:00"
+}

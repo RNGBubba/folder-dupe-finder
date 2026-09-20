@@ -1,0 +1,12 @@
+[project]
+name = "folder-dupe-finder"
+version = "0.1.0"
+description = "Find duplicate regular files by content hash"
+requires-python = ">=3.10"
+license = {file = "LICENSE"}
+
+[project.scripts]
+folder-dupe-finder = "dupe_finder:main"
+
+[project.optional-dependencies]
+test = ["pytest>=7"]
